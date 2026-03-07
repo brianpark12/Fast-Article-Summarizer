@@ -13,7 +13,7 @@ Enter in the following command in VS code terminal:
 
 git clone https://github.com/brianpark12/Fast-Article-Summarizer
 
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 cd Fast-Article-Summarizer
 
