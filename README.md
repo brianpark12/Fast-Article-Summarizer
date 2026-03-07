@@ -11,6 +11,10 @@ MAKE SURE to check requiresments.txt for the summarizer.py to work.
 # Installation
 Enter in the following command in VS code terminal:
 pip install -r requirements.txt
+git clone https://github.com/brianpark12/Fast-Article-Summarizer
+cd Fast-Article-Summarizer
+
+Inside .env file, please type in your genai API key.
 
 # Features
 Multi-format support: The program is able to process .docx, .pdf, and url
