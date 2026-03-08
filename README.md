@@ -27,6 +27,8 @@ Easy Website information extraction: utilizes httpx.
 
 Targeted Audience: Users can cutomize summarization based on audience.
 
+Customization of Prompt: Users can easily change prompt by simply typing in an instruction instead of prompt statement.
+
 # Technology
 Python: Core logic and script execution.
 
